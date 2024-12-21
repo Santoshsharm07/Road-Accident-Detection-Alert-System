@@ -1,10 +1,8 @@
-Road-
+Road-Accident-Detection-Alert-System
 
-https://github.com/user-attachments/assets/8c66c25b-35c4-47da-96cf-c94794177473
-
-Accident-Detection-Alert-System
 
 Demo VIdeo
+https://github.com/user-attachments/assets/15c9faba-d981-49ec-b746-1ba7e98e7607
 
 Overview
 
